@@ -1,0 +1,1 @@
+Revisiting Python, NLP, Machine Learning & Data Science through hands-on projects. 🚀 Recently built a Sentiment Analysis web app using Python, TextBlob & Streamlit to classify text as Positive, Negative or Neutral. A practical reminder that strong fundamentals help build better AI solutions. #Python #NLP #AI #DataScience #Streamlit
